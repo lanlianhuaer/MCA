@@ -1,5 +1,6 @@
 # MCA
 
+This application is created by Dash. For more information about Dash, please visit https://dash.plotly.com/
 Install the python packages by
 
 `pip install dash plotly pandas`
