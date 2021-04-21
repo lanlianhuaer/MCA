@@ -4,10 +4,11 @@ Install the python packages by
 
 `pip install dash plotly pandas`
 
-run the code:
+Then, run the app with
 
-`python MCA_app.py`
+$ python MCA_app.py
 
-Dash is running on http://127.0.0.1:4544/
+...Running on `http://127.0.0.1:4544/` (Press CTRL+C to quit)
 
-Then click the link.
+and visit `http://127.0.0.1:4544/` in your web browser.
+
